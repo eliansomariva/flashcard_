@@ -1,11 +1,11 @@
 :root {
     --text-color: #DBE4EF;
-    --card-front-color: #2737c9;
+    --card-front-color: #72a01d;
     --card-back-color: #00F4BF;
 }
 
 body{
-   background: url(img/bg-desktop.webp);
+   background: url(img/futbol.webp);
     font-family: Bai Jamjuree;
     }
     #container{
